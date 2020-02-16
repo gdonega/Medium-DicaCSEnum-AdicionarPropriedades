@@ -1,0 +1,10 @@
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.exe
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.deps.json
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.runtimeconfig.json
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.runtimeconfig.dev.json
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.dll
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\bin\Debug\netcoreapp3.1\TiposJogosComSwitch.pdb
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\obj\Debug\netcoreapp3.1\TiposJogosComSwitch.AssemblyInfoInputs.cache
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\obj\Debug\netcoreapp3.1\TiposJogosComSwitch.AssemblyInfo.cs
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\obj\Debug\netcoreapp3.1\TiposJogosComSwitch.dll
+D:\windows\defaultfolders\desktop\Enum\CSExemplos\1TiposJogosEnumCsSwitchExemplo\TiposJogosComSwitch\TiposJogosComSwitch\obj\Debug\netcoreapp3.1\TiposJogosComSwitch.pdb
